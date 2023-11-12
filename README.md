@@ -2,7 +2,11 @@
 
 ![banner](banner.png)
 
-This template provides a seamless integration of ASP.NET Core with React and TypeScript, enabling a robust full-stack development environment. Follow the steps below to get started:
+This template provides a seamless integration of ASP.NET Core with React and TypeScript, enabling a robust full-stack development environment.
+
+**It's essentially the standard ASP.NET Core with React template, restructured and enhanced with TypeScript integration for a more robust and type-safe development experience.**
+
+Follow the steps below to get started:
 
 ## Installation
 
