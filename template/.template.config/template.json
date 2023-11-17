@@ -9,6 +9,16 @@
   "tags": {
     "language": "C#",
     "type": "project"
+  },
+  "symbols": {
+    "framework": {
+      "type": "parameter",
+      "defaultValue": "net8.0",
+      "replaces": "net8.0",
+      "description": "Specify the target framework version"
+    }
+  },
+  "configPlaceholders": {
+    "framework": "net8.0"
   }
 }
-r
