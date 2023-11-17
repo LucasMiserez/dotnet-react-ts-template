@@ -34,7 +34,7 @@ cd [desired_folder]
 2. Create a new project using the template:
 
 ```
-dotnet new reactts --name [project_name]
+dotnet new reactts --framework [project_framework] --name [project_name]
 ```
 
 ## Setting Up the Project
@@ -64,10 +64,6 @@ cd ..
 ```bash
 dotnet run
 ```
-
-## Note
-
-This template is based on .NET 6. If you prefer to use a newer version, feel free to update as needed.
 
 ## Why This Template?
 
